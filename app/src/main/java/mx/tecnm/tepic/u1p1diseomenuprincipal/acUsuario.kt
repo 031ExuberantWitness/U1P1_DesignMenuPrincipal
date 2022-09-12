@@ -1,5 +1,6 @@
 package mx.tecnm.tepic.u1p1diseomenuprincipal
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_ac_usuario.*
@@ -11,6 +12,12 @@ class acUsuario : AppCompatActivity() {
 
         btnRegresar.setOnClickListener {
             onBackPressed();
+        }
+
+
+        btnPago.setOnClickListener {
+            var acActivitys = Intent(this, MainActivity2::class.java)
+            startActivity(acActivitys)
         }
     }
 }
