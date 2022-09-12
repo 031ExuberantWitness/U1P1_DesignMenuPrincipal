@@ -6,7 +6,7 @@ import android.widget.EditText
 import androidx.appcompat.app.AlertDialog
 import kotlinx.android.synthetic.main.activity_main2.*
 
-class MainActivity2 : AppCompatActivity() {
+class acMetodoPago : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main2)

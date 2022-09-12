@@ -16,7 +16,7 @@ class acUsuario : AppCompatActivity() {
 
 
         btnPago.setOnClickListener {
-            var acActivitys = Intent(this, MainActivity2::class.java)
+            var acActivitys = Intent(this, acMetodoPago::class.java)
             startActivity(acActivitys)
         }
     }

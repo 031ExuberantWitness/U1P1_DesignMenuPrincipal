@@ -3,17 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Cristopher/Documentos/Cristopher/Datos - Universidad/Semestre 11 Ago - Dic/03. Moviles/U1/U1P1_DesignMenuPrincipal/app/src/main/res/drawable/boton_redondo.xml" value="0.1895" />
-        <entry key="..\:/Cristopher/Documentos/Cristopher/Datos - Universidad/Semestre 11 Ago - Dic/03. Moviles/U1/U1P1_DesignMenuPrincipal/app/src/main/res/drawable/componente_blanco.xml" value="0.1895" />
-        <entry key="..\:/Cristopher/Documentos/Cristopher/Datos - Universidad/Semestre 11 Ago - Dic/03. Moviles/U1/U1P1_DesignMenuPrincipal/app/src/main/res/drawable/componente_gris.xml" value="0.1895" />
-        <entry key="..\:/Cristopher/Documentos/Cristopher/Datos - Universidad/Semestre 11 Ago - Dic/03. Moviles/U1/U1P1_DesignMenuPrincipal/app/src/main/res/drawable/fondo_degradado.xml" value="0.1895" />
-        <entry key="..\:/Cristopher/Documentos/Cristopher/Datos - Universidad/Semestre 11 Ago - Dic/03. Moviles/U1/U1P1_DesignMenuPrincipal/app/src/main/res/layout/activity_ac_usuario.xml" value="0.20416666666666666" />
-        <entry key="..\:/Cristopher/Documentos/Cristopher/Datos - Universidad/Semestre 11 Ago - Dic/03. Moviles/U1/U1P1_DesignMenuPrincipal/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
-        <entry key="..\:/Cristopher/Documentos/Cristopher/Datos - Universidad/Semestre 11 Ago - Dic/03. Moviles/U1/U1P1_DesignMenuPrincipal/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/kurst/AndroidStudioProjects/U1P1DiseoMenuPrincipal/app/src/main/res/drawable/btn_shadow.xml" value="0.2065" />
+        <entry key="..\:/Users/kurst/AndroidStudioProjects/U1P1DiseoMenuPrincipal/app/src/main/res/drawable/fondo_degradado.xml" value="0.1" />
         <entry key="..\:/Users/kurst/AndroidStudioProjects/U1P1DiseoMenuPrincipal/app/src/main/res/font/deliveryfont.xml" value="0.22916666666666666" />
         <entry key="..\:/Users/kurst/AndroidStudioProjects/U1P1DiseoMenuPrincipal/app/src/main/res/layout/activity_ac_usuario.xml" value="0.2" />
         <entry key="..\:/Users/kurst/AndroidStudioProjects/U1P1DiseoMenuPrincipal/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/kurst/AndroidStudioProjects/U1P1DiseoMenuPrincipal/app/src/main/res/layout/activity_main2.xml" value="0.2" />
       </map>
     </option>
   </component>
