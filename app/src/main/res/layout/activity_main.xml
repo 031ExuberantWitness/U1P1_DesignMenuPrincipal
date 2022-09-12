@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/imageCover"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/menubackground_1277x392" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delivery"
+        android:textSize="40sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:textColor="#4019a2"
+        android:fontFamily="@font/bebas"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Menu principal"
+        android:textSize="30sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="60dp"
+        android:textColor="#2a2a2a"
+        android:fontFamily="@font/bebas"
+        />
+
+    <ImageButton
+        android:id="@+id/btnUsuario"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="205dp"
+        android:layout_marginTop="15dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/user"
+        android:backgroundTint="#4019a2"
+        />
+
+    <Button
+        android:id="@+id/btnRestaurantes"
+        android:layout_width="847px"
+        android:layout_height="193px"
+        android:layout_marginTop="240dp"
+        android:layout_marginLeft="50dp"
+        android:text="Restaurantes"
+        android:textColor="#2a2a2a"
+        android:textSize="25dp"
+        android:fontFamily="@font/bebas"
+        android:backgroundTint="@color/white"
+        />
+
+    <Button
+        android:id="@+id/btnCategorias"
+        android:layout_width="847px"
+        android:layout_height="193px"
+        android:layout_marginTop="330dp"
+        android:layout_marginLeft="50dp"
+        android:text="Categorias"
+        android:textColor="#2a2a2a"
+        android:textSize="25dp"
+        android:fontFamily="@font/bebas"
+        android:backgroundTint="@color/white"
+        />
+
+    <Button
+        android:id="@+id/btnPromociones"
+        android:layout_width="847px"
+        android:layout_height="193px"
+        android:layout_marginTop="420dp"
+        android:layout_marginLeft="50dp"
+        android:text="PROMOCIONES"
+        android:textColor="#2a2a2a"
+        android:textSize="25dp"
+        android:fontFamily="@font/bebas"
+        android:backgroundTint="@color/white"
+        />
+
+    <Button
+        android:id="@+id/btnCerrarSesion"
+        android:layout_width="400px"
+        android:layout_height="150px"
+        android:layout_marginTop="670dp"
+        android:layout_marginLeft="11dp"
+        android:text="CERRAR SESION"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:fontFamily="@font/bebas"
+        android:backgroundTint="#4019a2"
+        />
+
+
+</FrameLayout>

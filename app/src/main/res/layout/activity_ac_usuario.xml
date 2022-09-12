@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/imageCover"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/menubackground_1277x392" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnPago"
+        android:layout_width="847px"
+        android:layout_height="193px"
+        android:layout_marginTop="330dp"
+        android:layout_marginLeft="50dp"
+        android:text="Método de pago"
+        android:textColor="#2a2a2a"
+        android:textSize="25dp"
+        android:fontFamily="@font/bebas"
+        android:backgroundTint="@color/white"
+        />
+
+    <Button
+        android:id="@+id/btnRegresar"
+        android:layout_width="400px"
+        android:layout_height="150px"
+        android:layout_marginTop="670dp"
+        android:layout_marginLeft="11dp"
+        android:text="Regresar"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:fontFamily="@font/bebas"
+        android:backgroundTint="#4019a2"
+        />
+
+</FrameLayout>
